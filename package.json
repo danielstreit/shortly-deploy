@@ -32,6 +32,6 @@
     "supertest": "^0.10.0"
   },
   "devDependencies": {
-    "grunt-contrib-concat": "^0.3.0",
+    "grunt-contrib-concat": "^0.3.0"
   }
 }
